@@ -10,7 +10,7 @@ I'm tired of the evident lack of care for consent,[^11][^12][^13][^14] copyright
 
 They have helped unleash a flood of GenAI slop[^31] that has been detrimental to the arts,[^32] open-source,[^33][^34][^35][^36][^37][^38] the open web,[^39] research,[^40][^41] our language,[^42] thoughts[^43] and our already fragile sense of shared reality.[^44]
 
-The tech is fundamentally unserious,[^45] inaccurate,[^46][^47][^48][^49] insecure,[^50][^51] unpopular,[^52][^53][^54][^55] unprofitable[^56][^57][^58][^59][^60] and economically ruinous.[^61] It is definitely not intelligent nor conscious nor sentient. %% add sources %% It is a con[^62] and a cognitive trap.[^63] It is causing hardware shortages and has made costs skyrocket.[^64][^65][^66]
+The tech is fundamentally unserious,[^45] inaccurate,[^46][^47][^48][^49] insecure,[^50][^51] unpopular,[^52][^53][^54][^55] unprofitable[^56][^57][^58][^59][^60] and economically ruinous.[^61] It is definitely not intelligent nor conscious nor sentient. It is a con[^62] and a cognitive trap.[^63] It is causing hardware shortages and has made costs skyrocket.[^64][^65][^66]
 
 To its users it inflicts cognitive decline,[^67][^68][^69][^70] deskilling,[^71][^72][^73] addiction,[^74] psychosis[^75][^76] and self-harm.[^77][^78][^79] It has brought stress,[^80] burnout[^81] and despair[^82] to workers.
 
