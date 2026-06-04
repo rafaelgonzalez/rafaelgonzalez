@@ -8,7 +8,7 @@ The longer version is a bit of a rant.
 
 I'm tired of the evident lack of care for consent,[^11][^12][^13][^14] copyright[^15][^16][^17][^18][^19][^20] environmental harms[^21][^22][^23][^24][^25][^26] and labour rights[^27][^28][^29] that tech CEOs like Microslop's Satya Nadella exhibit when training, deploying and shoving their monstrous LLMs down our throats.[^30][^31][^32]
 
-They have helped unleash a flood of GenAI slop[^33] that has been detrimental to the arts,[^34] open-source,[^35][^36][^37][^38][^39][^40] the open web,[^41] research,,[^42][^43] our language,[^44] thoughts[^45] and our already fragile sense of shared reality.[^46][^47]
+They have helped unleash a flood of GenAI slop[^33] that has been detrimental to the arts,[^34] open-source,[^35][^36][^37][^38][^39][^40] the open web,[^41] research,[^42][^43] our language,[^44] our thoughts[^45] and our already fragile sense of shared reality.[^46][^47]
 
 The tech is fundamentally unserious,[^48] inaccurate,[^49][^50][^51][^52] insecure,[^53][^54][^55] unpopular,[^56][^57][^58][^59][^60][^61] unprofitable[^62][^63][^64][^65][^66] and economically ruinous.[^67][^68][^69] It is definitely neither intelligent[^70] nor sentient.[^71][^72] It is a con[^73] and a cognitive trap.[^74] It is causing shortages and massive price hikes in computer hardware[^75][^76][^77] that may last a decade.
 
