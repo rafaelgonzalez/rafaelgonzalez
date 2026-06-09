@@ -14,9 +14,9 @@ The tech is fundamentally unserious,[^48] inaccurate,[^49][^50][^51][^52] insecu
 
 To its users it inflicts cognitive decline,[^78][^79][^80][^81] deskilling,[^82][^83][^84] addiction,[^85] psychosis[^86][^87] and self-harm.[^88][^89][^90] It has brought stress,[^91] burnout[^92] and despair[^93] to workers.
 
-CEOs have wilfully ignored these harms and threatened their workforce to use-AI-or-else[^94] for imaginary productivity increases,[^95] then used AI as an excuse anyway to enact mass layoffs,[^96][^97][^98][^99][^100][^101] sometimes backtracking[^102][^103] or rehiring[^104] after facing backlash or realising a chatbot is not replacement for labour.
+CEOs have wilfully ignored these harms and threatened their workforce to use-AI-or-else[^94] for imaginary productivity increases,[^95] then used AI as an excuse anyway to enact mass layoffs,[^96][^97][^98][^99][^100] sometimes backtracking[^101][^102] or rehiring[^103] after facing backlash or realising a chatbot is not replacement for labour.
 
-Above all, I am exhausted from hearing so-called "thought-leaders" and "disruptors" from Silicon-Valley and their useful idiots (tech bros, the managerial class, LinkedIn lunatics, misinformed media) bloviate[^105][^106][^107] about a technology they deeply misunderstand[^108] and try to convince us it is inevitable. I'm sick of their rotten ideologies[^109] and their dystopian visions of the future[^110][^111][^112][^113] they want to force on us. 
+Above all, I am exhausted from hearing so-called "thought-leaders" and "disruptors" from Silicon-Valley and their useful idiots (tech bros, the managerial class, LinkedIn lunatics, misinformed media) bloviate[^104][^105][^106] about a technology they deeply misunderstand[^107] and try to convince us it is inevitable. I'm sick of their rotten ideologies[^108] and their dystopian visions of the future[^109][^110][^111][^112] they want to force on us. 
 
 If this sentiment resonates with you and – in the context of GitHub – you would like to reclaim some of your digital sovereignty, then I’d encourage you to move off if you can. There are several alternatives:
 
@@ -24,7 +24,7 @@ If this sentiment resonates with you and – in the context of GitHub – you wo
 - [Forgejo](https://forgejo.org/), self-hostable, open-source code forge software. Maintained by the Codeberg non-profit. It is a fork of Gitea.
 - [SourceHut](https://sourcehut.org/), SaaS and self-hostable open-source code forge software. Explicitly no AI, tracking or ads.
 
-I would actively discourage you from using Gitea[^114] or GitLab.[^115][^116]
+I would actively discourage you from using Gitea[^113] or GitLab.[^114][^115]
 
 I will still engage with GitHub where absolutely necessary, like reporting bugs on projects still hosted on the platform. But I won’t be hosting my own code there anymore. My hope is the open-source community will move off over time. My hope is that you will play a small part in rejecting what the tech industry has become.
 
@@ -156,7 +156,7 @@ PS: The abundance of footnotes in this post reflects my exasperation at people w
 
 [^59]: ["Former Google CEO Eric Schmidt booed by graduates at mention of AI"](https://www.bbc.com/news/articles/ce8pqd54qneo), _BBC_.
 
-[^60]: ["Ronny Chieng Address | Harvard Class Day 2026"](https://www.youtube.com/watch?v=ORq_Hi5dB-g), _Harvard University_ on Youtube.
+[^60]: ["Ronny Chieng Address \| Harvard Class Day 2026"](https://www.youtube.com/watch?v=ORq_Hi5dB-g), _Harvard University_ on Youtube.
 
 [^61]: ["Google Employees Internally Share Memes About How Its AI Sucks"](https://www.404media.co/google-employees-internally-share-memes-about-how-its-ai-sucks/), _404 Media_.
 
@@ -252,9 +252,9 @@ PS: The abundance of footnotes in this post reflects my exasperation at people w
 
 [^107]: ["Why Marc Andreessen Is Facing Backlash Over an AI Prompt"](https://www.techloy.com/why-marc-andreessen-is-facing-backlash-over-an-ai-prompt/), _Techloy_.
 
-[^108]: ["A new Silicon Valley manifesto reveals the bleak, dangerous philosophy driving the tech industry"](https://theconversation.com/a-new-silicon-valley-manifesto-reveals-the-bleak-dangerous-philosophy-driving-the-tech-industry-216894), _The Conversation_.
+[^108]: ["The Acronym Behind Our Wildest AI Dreams and Nightmares"](https://www.truthdig.com/articles/the-acronym-behind-our-wildest-ai-dreams-and-nightmares/), _Truthdig_.
 
-[^109]: A for-profit company took control of the Gitea project without the community's consent. This is what prompted the community to create Forgejo. <https://forgejo.org/2022-12-15-hello-forgejo/>.
+[^109]: ["A new Silicon Valley manifesto reveals the bleak, dangerous philosophy driving the tech industry"](https://theconversation.com/a-new-silicon-valley-manifesto-reveals-the-bleak-dangerous-philosophy-driving-the-tech-industry-216894), _The Conversation_.
 
 [^110]: ["For tech CEOs, the dystopia is the point"](https://www.bloodinthemachine.com/p/for-tech-ceos-the-dystopia-is-the), _Blood in the Machine_.
 
@@ -262,10 +262,8 @@ PS: The abundance of footnotes in this post reflects my exasperation at people w
 
 [^112]: ["Palantir manifesto described as ‘ramblings of a supervillain’ amid UK contract fears"](https://www.theguardian.com/technology/2026/apr/21/palantir-manifesto-uk-contract-fears-mps), _The Guardian_.
 
-[^113]: ["The Acronym Behind Our Wildest AI Dreams and Nightmares"](https://www.truthdig.com/articles/the-acronym-behind-our-wildest-ai-dreams-and-nightmares/), _Truthdig_.
+[^113]: A for-profit company took control of the Gitea project without the community's consent. This is what prompted the community to create Forgejo. <https://forgejo.org/2022-12-15-hello-forgejo/>.
 
 [^114]:["Blood money is fine with us, says GitLab: Vetting non-evil customers is 'time consuming, potentially distracting'"](https://www.theregister.com/software/2019/10/16/blood-money-is-fine-with-us-says-gitlab-vetting-non-evil-customers-is-time-consuming-potentially-distracting/1542242), _The Register_.
 
 [^115]: ["GitLab promises a different kind of layoff as biz pivots toward AI"](https://www.theregister.com/devops/2026/05/12/gitlab-promises-a-different-kind-of-layoff-as-biz-pivots-toward-ai/5238422), _The Register_.
-
-[^116]: ["The AI RAM shortage is also driving up SSD prices"](https://www.theverge.com/tech/908916/ssd-storage-shortages-price-increases), _The Verge_.
