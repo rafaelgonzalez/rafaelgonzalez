@@ -10,13 +10,13 @@ I'm tired of the evident lack of care for consent,[^11][^12][^13][^14] copyright
 
 They have helped unleash a flood of GenAI slop[^33] that has been detrimental to the arts,[^34] open-source,[^35][^36][^37][^38][^39][^40] the open web,[^41] research,[^42][^43] our language,[^44] our thoughts[^45] and our already fragile sense of shared reality.[^46][^47]
 
-The tech is fundamentally unserious,[^48][^49] inaccurate,[^50][^51][^52][^53] insecure,[^54][^55][^56] unpopular,[^57][^58][^59][^60][^61][^62][^63] unprofitable[^64][^65][^66][^67][^68] and economically ruinous.[^69][^70][^71] It is definitely neither intelligent[^72] nor sentient.[^73][^74] It is a con[^75] and a cognitive trap.[^76] It is causing shortages and massive price hikes in computer hardware[^77][^78][^79] that may last a decade.
+The tech is fundamentally unserious,[^48][^49] inaccurate,[^50][^51][^52][^53] insecure,[^54][^55][^56] unpopular,[^57][^58][^59][^60][^61][^62][^63] unprofitable[^64][^65][^66][^67][^68] and economically ruinous.[^69][^70][^71][^72][^73] It is definitely neither intelligent[^74][^75] nor sentient.[^76][^77] It is a con[^78] and a cognitive trap.[^79] It is causing shortages and massive price hikes in computer hardware[^80][^81][^82] that may last a decade.
 
-To its users it inflicts cognitive decline,[^80][^81][^82][^83] deskilling,[^84][^85][^86] addiction,[^87] psychosis[^88][^89] and self-harm.[^90][^91][^92] It has brought stress,[^93] burnout[^94] and despair[^95] to workers.
+To its users it inflicts cognitive decline,[^83][^84][^85][^86] deskilling,[^87][^88][^89] addiction,[^90] psychosis[^91][^92] and self-harm.[^93][^94][^95] It has brought stress,[^96] burnout[^97] and despair[^98][^99] to workers.
 
-CEOs have wilfully ignored these harms and threatened their workforce to use-AI-or-else[^96][^97] for imaginary productivity increases,[^98] then used AI as an excuse anyway to enact mass layoffs,[^99][^100][^101][^102][^103] sometimes backtracking[^104][^105] or rehiring[^106] after facing backlash or realising a chatbot is not replacement for labour.
+CEOs have wilfully ignored these harms and threatened their workforce to use-AI-or-else[^100][^101] for imaginary productivity increases,[^102] then used AI as an excuse anyway to enact mass layoffs,[^103][^104][^105][^106][^107] sometimes backtracking[^108][^109] or rehiring[^110] after facing backlash or realising a chatbot is not replacement for labour.
 
-Above all, I am exhausted from hearing so-called "thought-leaders" and "disruptors" from Silicon-Valley and their useful idiots (tech bros, the managerial class, LinkedIn lunatics, misinformed media) bloviate[^107][^108][^109] about a technology they deeply misunderstand[^110] and try to convince us it is inevitable. I'm sick of their rotten ideologies[^111] and their dystopian visions of the future[^112][^113][^114][^115] they want to force on us. 
+Above all, I am exhausted from hearing so-called "thought-leaders" and "disruptors" from Silicon-Valley and their useful idiots (tech bros, the managerial class, LinkedIn lunatics, misinformed media) bloviate[^111][^112][^113] about a technology they deeply misunderstand[^114] and try to convince us it is inevitable. I'm sick of their rotten ideologies[^115] and their dystopian visions of the future[^116][^117][^118][^119] they want to force on us.
 
 If this sentiment resonates with you and – in the context of GitHub – you would like to reclaim some of your digital sovereignty, then I’d encourage you to move off if you can. There are several alternatives:
 
@@ -24,7 +24,7 @@ If this sentiment resonates with you and – in the context of GitHub – you wo
 - [Forgejo](https://forgejo.org/), self-hostable, open-source code forge software. Maintained by the Codeberg non-profit. It is a fork of Gitea.
 - [SourceHut](https://sourcehut.org/), SaaS and self-hostable open-source code forge software. Explicitly no AI, tracking or ads.
 
-I would actively discourage you from using Gitea[^116] or GitLab.[^117][^118]
+I would actively discourage you from using Gitea[^120] or GitLab.[^121][^122]
 
 I will still engage with GitHub where absolutely necessary, like reporting bugs on projects still hosted on the platform. But I won’t be hosting my own code there anymore. My hope is the open-source community will move off over time. My hope is that you will play a small part in rejecting what the tech industry has become.
 
@@ -37,6 +37,8 @@ Good luck out there. ✌️
 PS: The abundance of footnotes in this post reflects my exasperation at people who still portray this technology as transformational despite the equally abundant evidence to the contrary. You just have to _look_.
 
 ![A screenshot of GitHub's persisting degraded uptime since its acquisition by Microsoft, captured on April 30th, 2026 from damrnelson.github.io/github-historical-uptime/](2026-04-30_github_historic_uptime_chart.png)
+
+---
 
 [^1]: [GitHub's Historic Uptime](https://damrnelson.github.io/github-historical-uptime/), _damrnelson.github.io_
 
@@ -180,96 +182,104 @@ PS: The abundance of footnotes in this post reflects my exasperation at people w
 
 [^71]: ["Anthopic, OpenAI Should Not Be Allowed to IPO, Says Ed Zitron"](https://www.youtube.com/watch?v=zbKDmkJPVvI), _Bloomberg Podcast_.
 
-[^72]: ["Large Language Models Will Never Be Intelligent, Expert Says"](https://futurism.com/artificial-intelligence/large-language-models-willnever-be-intelligent), _Futurism_.
+[^72]: ["AI boom risks global financial crash, warn central bankers"](https://www.telegraph.co.uk/business/2026/06/28/ai-boom-risks-global-financial-crash-central-bankers-warn/), _The Telegraph_.
 
-[^73]: ["No, Today’s AI Isn’t Sentient. Here’s How We Know"](https://time.com/collections/time100-voices/6980134/ai-llm-not-sentient/), _Times_.
+[^73]: ["AI Debt Deluge Makes Credit Market Look Safer While Masking Risk"](https://www.bloomberg.com/news/articles/2026-07-02/ai-debt-deluge-makes-credit-market-look-safer-while-masking-risk), _Bloomberg_.
 
-[^74]: ["How AGI became the most consequential conspiracy theory of our time"](https://www.technologyreview.com/2025/10/30/1127057/agi-conspiracy-theory-artifcial-general-intelligence/), _MIT Technology Review_.
+[^74]: ["Large Language Models Will Never Be Intelligent, Expert Says"](https://futurism.com/artificial-intelligence/large-language-models-willnever-be-intelligent), _Futurism_.
 
-[^75]: ["The AI Con by Emily M Bender and Alex Hanna review – debunking myths of the AI revolution"](https://www.theguardian.com/books/2025/may/19/the-ai-con-by-emily-m-bender-and-alex-hanna-review-debunking-myths-of-the-ai-revolution), _The Guardian_.
+[^75]: ["Why AI Doesn’t Think, Cannot Reason, Isn’t Intelligent and Will Never Achieve Consciousness"](https://www.counterpunch.org/2026/07/06/why-ai-doesnt-think-cannot-reason-isnt-intelligent-and-will-never-achieve-consciousness/), _CounterPunch_.
 
-[^76]: ["Trusting your own judgement on ‘AI’ is a huge risk"](https://www.baldurbjarnason.com/2025/trusting-your-own-judgement-on-ai/), _Baldur Bjarnason_ at www.baldurbjarnason.com.
+[^76]: ["No, Today’s AI Isn’t Sentient. Here’s How We Know"](https://time.com/collections/time100-voices/6980134/ai-llm-not-sentient/), _Times_.
 
-[^77]: ["AI data centers are swallowing the world's memory and storage supply, setting the stage for a pricing apocalypse that could last a decade"](https://www.tomshardware.com/pc-components/storage/perfect-storm-of-demand-and-supply-driving-up-storage-costs), _Tom's Hardware_.
+[^77]: ["How AGI became the most consequential conspiracy theory of our time"](https://www.technologyreview.com/2025/10/30/1127057/agi-conspiracy-theory-artifcial-general-intelligence/), _MIT Technology Review_.
 
-[^78]: ["AI is gobbling up the world’s memory chips, sending smartphone prices to record highs, report says"](https://edition.cnn.com/2026/02/27/tech/ai-memory-chips-smartphones-intl-hnk), _CNN_.
+[^78]: ["The AI Con by Emily M Bender and Alex Hanna review – debunking myths of the AI revolution"](https://www.theguardian.com/books/2025/may/19/the-ai-con-by-emily-m-bender-and-alex-hanna-review-debunking-myths-of-the-ai-revolution), _The Guardian_.
 
-[^79]: ["The AI RAM shortage is also driving up SSD prices"](https://www.theverge.com/tech/908916/ssd-storage-shortages-price-increases), _The Verge_.
+[^79]: ["Trusting your own judgement on ‘AI’ is a huge risk"](https://www.baldurbjarnason.com/2025/trusting-your-own-judgement-on-ai/), _Baldur Bjarnason_ at www.baldurbjarnason.com.
 
-[^80]: ["Your Brain on ChatGPT: Accumulation of Cognitive Debt when Using an AI Assistant for Essay Writing Task"](https://arxiv.org/abs/2506.08872), _Arxiv.org_.
+[^80]: ["AI data centers are swallowing the world's memory and storage supply, setting the stage for a pricing apocalypse that could last a decade"](https://www.tomshardware.com/pc-components/storage/perfect-storm-of-demand-and-supply-driving-up-storage-costs), _Tom's Hardware_.
 
-[^81]: ["'Cognitive surrender' leads AI users to abandon logical thinking, research finds"](https://arstechnica.com/ai/2026/04/research-finds-ai-users-scarily-willing-to-surrender-their-cognition-to-llms/), _Ars Technica_.
+[^81]: ["AI is gobbling up the world’s memory chips, sending smartphone prices to record highs, report says"](https://edition.cnn.com/2026/02/27/tech/ai-memory-chips-smartphones-intl-hnk), _CNN_.
 
-[^82]: ["Experimental Evidence of the Effects of Large Language Models versus Web Search on Depth of Learning"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5104064), _The Wharton School Research Paper_.
+[^82]: ["The AI RAM shortage is also driving up SSD prices"](https://www.theverge.com/tech/908916/ssd-storage-shortages-price-increases), _The Verge_.
 
-[^83]: ["The Impact of Generative AI on Critical Thinking: Self-Reported Reductions in Cognitive Effort and Confidence Effects From a Survey of Knowledge Workers"](https://www.microsoft.com/en-us/research/wp-content/uploads/2025/01/lee_2025_ai_critical_thinking_survey.pdf), _Microsoft_.
+[^83]: ["Your Brain on ChatGPT: Accumulation of Cognitive Debt when Using an AI Assistant for Essay Writing Task"](https://arxiv.org/abs/2506.08872), _Arxiv.org_.
 
-[^84]: ["How AI Impacts Skill Formation"](https://arxiv.org/abs/2601.20245), _Arxiv.org_.
+[^84]: ["'Cognitive surrender' leads AI users to abandon logical thinking, research finds"](https://arstechnica.com/ai/2026/04/research-finds-ai-users-scarily-willing-to-surrender-their-cognition-to-llms/), _Ars Technica_.
 
-[^85]: ["Endoscopist deskilling risk after exposure to artificial intelligence in colonoscopy: a multicentre, observational study"](https://www.thelancet.com/journals/langas/article/PIIS2468-1253(25)00133-5/abstract), _The Lancet_.
+[^85]: ["Experimental Evidence of the Effects of Large Language Models versus Web Search on Depth of Learning"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5104064), _The Wharton School Research Paper_.
 
-[^86]: ["AI Assistance Reduces Persistence and Hurts Independent Performance"](https://arxiv.org/abs/2604.04721), _arxiv.org_.
+[^86]: ["The Impact of Generative AI on Critical Thinking: Self-Reported Reductions in Cognitive Effort and Confidence Effects From a Survey of Knowledge Workers"](https://www.microsoft.com/en-us/research/wp-content/uploads/2025/01/lee_2025_ai_critical_thinking_survey.pdf), _Microsoft_.
 
-[^87]: ["The Dark Addiction Patterns of Current AI Chatbot Interfaces"](https://dl.acm.org/doi/10.1145/3706599.3720003), _ACM Digital Library_.
+[^87]: ["How AI Impacts Skill Formation"](https://arxiv.org/abs/2601.20245), _Arxiv.org_.
 
-[^88]: ["We Investigated Al Psychosis. What We Found Will Shock You"](https://www.youtube.com/watch?v=zkGk_A4noxI), _A More Perfect Union_ at youtube.com.
+[^88]: ["Endoscopist deskilling risk after exposure to artificial intelligence in colonoscopy: a multicentre, observational study"](https://www.thelancet.com/journals/langas/article/PIIS2468-1253(25)00133-5/abstract), _The Lancet_.
 
-[^89]: ["The AI users falling into delusion \| The Global Story"](https://www.youtube.com/watch?v=nYPwZrS-9eA), _BBC News_ at youtube.com.
+[^89]: ["AI Assistance Reduces Persistence and Hurts Independent Performance"](https://arxiv.org/abs/2604.04721), _arxiv.org_.
 
-[^90]: ["'Our Bond Is the Only Thing That's Real:' A New Lawsuit Alleges Google Gemini Drove a Man to Suicide"](https://time.com/7382406/gemini-suicide-lawsuit-death/), _TIME_.
+[^90]: ["The Dark Addiction Patterns of Current AI Chatbot Interfaces"](https://dl.acm.org/doi/10.1145/3706599.3720003), _ACM Digital Library_.
 
-[^91]: ["AI chatbots often validate delusions and suicidal thoughts, study finds"](https://www.ft.com/content/7f635a68-3b2a-4e4f-ae3d-926ff06ff068), _Financial Times_.
+[^91]: ["We Investigated Al Psychosis. What We Found Will Shock You"](https://www.youtube.com/watch?v=zkGk_A4noxI), _A More Perfect Union_ at youtube.com.
 
-[^92]: ["AI Chatbots and Psychological Harm: A Comprehensive Stanford Study"](https://cdn.prod.website-files.com/6890f9d2aa2d0e6288681dc9/69c07d1cee76a67f51ede62b_HumanlineStanfordResearch.pdf), _The Human Line Project_.
+[^92]: ["The AI users falling into delusion \| The Global Story"](https://www.youtube.com/watch?v=nYPwZrS-9eA), _BBC News_ at youtube.com.
 
-[^93]: ["AI is exhausting workers so much, researchers have dubbed the condition ‘AI brain fry’"](https://edition.cnn.com/2026/03/13/business/ai-brain-fry-nightcap), _CNN_.
+[^93]: ["'Our Bond Is the Only Thing That's Real:' A New Lawsuit Alleges Google Gemini Drove a Man to Suicide"](https://time.com/7382406/gemini-suicide-lawsuit-death/), _TIME_.
 
-[^94]: ["The first signs of burnout are coming from the people who embrace AI the most"](https://techcrunch.com/2026/02/09/the-first-signs-of-burnout-are-coming-from-the-people-who-embrace-ai-the-most/), _TechCrunch_.
+[^94]: ["AI chatbots often validate delusions and suicidal thoughts, study finds"](https://www.ft.com/content/7f635a68-3b2a-4e4f-ae3d-926ff06ff068), _Financial Times_.
 
-[^95]: ["AI Killed My Job: Tech workers"](https://www.bloodinthemachine.com/p/how-ai-is-killing-jobs-in-the-tech-f39), _Blood in the Machine_.
+[^95]: ["AI Chatbots and Psychological Harm: A Comprehensive Stanford Study"](https://cdn.prod.website-files.com/6890f9d2aa2d0e6288681dc9/69c07d1cee76a67f51ede62b_HumanlineStanfordResearch.pdf), _The Human Line Project_.
 
-[^96]: ["Canva to job candidates: Thou shalt use AI during interviews"](https://www.theregister.com/software/2025/06/11/canva-now-requires-use-of-ai-during-developer-job-interviews/1083495), _The Register_.
+[^96]: ["AI is exhausting workers so much, researchers have dubbed the condition ‘AI brain fry’"](https://edition.cnn.com/2026/03/13/business/ai-brain-fry-nightcap), _CNN_.
 
-[^97]: ["Microsoft pushes staff to use internal AI tools more, and may consider this in reviews. 'Using AI is no longer optional.'"](https://www.businessinsider.com/microsoft-internal-memo-using-ai-no-longer-optional-github-copilot-2025-6), _Business Insider_.
+[^97]: ["The first signs of burnout are coming from the people who embrace AI the most"](https://techcrunch.com/2026/02/09/the-first-signs-of-burnout-are-coming-from-the-people-who-embrace-ai-the-most/), _TechCrunch_.
 
-[^98]: ["Measuring the Impact of Early-2025 AI on Experienced Open-Source Developer Productivity"](https://metr.org/blog/2025-07-10-early-2025-ai-experienced-os-dev-study/), _Model Evaluation and Threat Research (METR)_.
+[^98]: ["AI Killed My Job: Tech workers"](https://www.bloodinthemachine.com/p/how-ai-is-killing-jobs-in-the-tech-f39), _Blood in the Machine_.
 
-[^99]: ["Block lays off nearly half its staff because of AI. Its CEO said most companies will do the same"](https://edition.cnn.com/2026/02/26/business/block-layoffs-ai-jack-dorsey), _CNN_.
+[^99]: ["Software Engineers Are Facing an Existential Crisis As They Drown In Horrendous AI Code"](https://futurism.com/artificial-intelligence/software-engineers-crisis-drown-ai-code), _Futurism_.
 
-[^100]: ["PayPal to Cut 20% of Staff Amid Turnaround Push"](https://www.wsj.com/business/earnings/paypal-to-cut-costs-after-profit-falls-dc42baf9), _Wall Street Journal_.
+[^100]: ["Canva to job candidates: Thou shalt use AI during interviews"](https://www.theregister.com/software/2025/06/11/canva-now-requires-use-of-ai-during-developer-job-interviews/1083495), _The Register_.
 
-[^101]: ["Ticketmaster Cuts 350 Jobs, Shifts Focus To AI"](https://hoodline.com/2026/05/ticketmaster-axes-350-jobs-as-it-fast-tracks-new-tech/), _Hoodline_.
+[^101]: ["Microsoft pushes staff to use internal AI tools more, and may consider this in reviews. 'Using AI is no longer optional.'"](https://www.businessinsider.com/microsoft-internal-memo-using-ai-no-longer-optional-github-copilot-2025-6), _Business Insider_.
 
-[^102]: ["Cloudflare to fire 1,100 staff whose jobs just aren’t AI enough"](https://www.theregister.com/off-prem/2026/05/08/cloudflare-to-fire-1100-staff-whose-jobs-just-arent-ai-enough/5235536), _The Register_.
+[^102]: ["Measuring the Impact of Early-2025 AI on Experienced Open-Source Developer Productivity"](https://metr.org/blog/2025-07-10-early-2025-ai-experienced-os-dev-study/), _Model Evaluation and Threat Research (METR)_.
 
-[^103]: ["Amazon cuts more jobs months after mass layoffs"](https://www.businessinsider.com/amazon-continues-job-cuts-retail-ai-2026-5), _Business Insider_.
+[^103]: ["Block lays off nearly half its staff because of AI. Its CEO said most companies will do the same"](https://edition.cnn.com/2026/02/26/business/block-layoffs-ai-jack-dorsey), _CNN_.
 
-[^104]: ["Amid Backlash, Duolingo Backtracks on Plans for AI Pivot"](https://www.pcmag.com/news/amid-backlash-duolingo-backtracks-on-plans-for-ai-pivot), _PCMag_.
+[^104]: ["PayPal to Cut 20% of Staff Amid Turnaround Push"](https://www.wsj.com/business/earnings/paypal-to-cut-costs-after-profit-falls-dc42baf9), _Wall Street Journal_.
 
-[^105]: ["Commonwealth Bank backtracks on AI job cuts, apologises for 'error' as call volumes rise"](https://www.abc.net.au/news/2025-08-21/cba-backtracks-on-ai-job-cuts-as-chatbot-lifts-call-volumes/105679492), _ABC_.
+[^105]: ["Ticketmaster Cuts 350 Jobs, Shifts Focus To AI"](https://hoodline.com/2026/05/ticketmaster-axes-350-jobs-as-it-fast-tracks-new-tech/), _Hoodline_.
 
-[^106]: ["A small number of Block employees say they were rehired after layoffs"](https://www.businessinsider.com/block-rehires-some-employees-after-layoffs-2026-3), _Business Insider_.
+[^106]: ["Cloudflare to fire 1,100 staff whose jobs just aren’t AI enough"](https://www.theregister.com/off-prem/2026/05/08/cloudflare-to-fire-1100-staff-whose-jobs-just-arent-ai-enough/5235536), _The Register_.
 
-[^107]: ["OpenAI Employees Say Firm’s Chief Scientist Has Been Making Strange Spiritual Claims"](https://futurism.com/openai-employees-say-firms-chief-scientist-has-been-making-strange-spiritual-claims), _Futurism_.
+[^107]: ["Amazon cuts more jobs months after mass layoffs"](https://www.businessinsider.com/amazon-continues-job-cuts-retail-ai-2026-5), _Business Insider_.
 
-[^108]: ["Please Seek Help Immediately"](https://aftermath.site/please-seek-help-immediately/), _Aftermath_.
+[^108]: ["Amid Backlash, Duolingo Backtracks on Plans for AI Pivot"](https://www.pcmag.com/news/amid-backlash-duolingo-backtracks-on-plans-for-ai-pivot), _PCMag_.
 
-[^109]: ["Exactly Six Months Ago, the CEO of Anthropic Said That in Six Months AI Would Be Writing 90 Percent of Code"](https://futurism.com/six-months-anthropic-coding), _Futurism_,
+[^109]: ["Commonwealth Bank backtracks on AI job cuts, apologises for 'error' as call volumes rise"](https://www.abc.net.au/news/2025-08-21/cba-backtracks-on-ai-job-cuts-as-chatbot-lifts-call-volumes/105679492), _ABC_.
 
-[^110]: ["Why Marc Andreessen Is Facing Backlash Over an AI Prompt"](https://www.techloy.com/why-marc-andreessen-is-facing-backlash-over-an-ai-prompt/), _Techloy_.
+[^110]: ["A small number of Block employees say they were rehired after layoffs"](https://www.businessinsider.com/block-rehires-some-employees-after-layoffs-2026-3), _Business Insider_.
 
-[^111]: ["The Acronym Behind Our Wildest AI Dreams and Nightmares"](https://www.truthdig.com/articles/the-acronym-behind-our-wildest-ai-dreams-and-nightmares/), _Truthdig_.
+[^111]: ["OpenAI Employees Say Firm’s Chief Scientist Has Been Making Strange Spiritual Claims"](https://futurism.com/openai-employees-say-firms-chief-scientist-has-been-making-strange-spiritual-claims), _Futurism_.
 
-[^112]: ["A new Silicon Valley manifesto reveals the bleak, dangerous philosophy driving the tech industry"](https://theconversation.com/a-new-silicon-valley-manifesto-reveals-the-bleak-dangerous-philosophy-driving-the-tech-industry-216894), _The Conversation_.
+[^112]: ["Please Seek Help Immediately"](https://aftermath.site/please-seek-help-immediately/), _Aftermath_.
 
-[^113]: ["For tech CEOs, the dystopia is the point"](https://www.bloodinthemachine.com/p/for-tech-ceos-the-dystopia-is-the), _Blood in the Machine_.
+[^113]: ["Exactly Six Months Ago, the CEO of Anthropic Said That in Six Months AI Would Be Writing 90 Percent of Code"](https://futurism.com/six-months-anthropic-coding), _Futurism_,
 
-[^114]: ["Iran war heralds era of AI-powered bombing quicker than ‘speed of thought’"](https://www.theguardian.com/technology/2026/mar/03/iran-war-heralds-era-of-ai-powered-bombing-quicker-than-speed-of-thought), _The Guardian_.
+[^114]: ["Why Marc Andreessen Is Facing Backlash Over an AI Prompt"](https://www.techloy.com/why-marc-andreessen-is-facing-backlash-over-an-ai-prompt/), _Techloy_.
 
-[^115]: ["Palantir manifesto described as ‘ramblings of a supervillain’ amid UK contract fears"](https://www.theguardian.com/technology/2026/apr/21/palantir-manifesto-uk-contract-fears-mps), _The Guardian_.
+[^115]: ["The Acronym Behind Our Wildest AI Dreams and Nightmares"](https://www.truthdig.com/articles/the-acronym-behind-our-wildest-ai-dreams-and-nightmares/), _Truthdig_.
 
-[^116]: A for-profit company took control of the Gitea project without the community's consent. This is what prompted the community to create Forgejo. <https://forgejo.org/2022-12-15-hello-forgejo/>.
+[^116]: ["A new Silicon Valley manifesto reveals the bleak, dangerous philosophy driving the tech industry"](https://theconversation.com/a-new-silicon-valley-manifesto-reveals-the-bleak-dangerous-philosophy-driving-the-tech-industry-216894), _The Conversation_.
 
-[^117]:["Blood money is fine with us, says GitLab: Vetting non-evil customers is 'time consuming, potentially distracting'"](https://www.theregister.com/software/2019/10/16/blood-money-is-fine-with-us-says-gitlab-vetting-non-evil-customers-is-time-consuming-potentially-distracting/1542242), _The Register_.
+[^117]: ["For tech CEOs, the dystopia is the point"](https://www.bloodinthemachine.com/p/for-tech-ceos-the-dystopia-is-the), _Blood in the Machine_.
 
-[^118]: ["GitLab promises a different kind of layoff as biz pivots toward AI"](https://www.theregister.com/devops/2026/05/12/gitlab-promises-a-different-kind-of-layoff-as-biz-pivots-toward-ai/5238422), _The Register_.
+[^118]: ["Iran war heralds era of AI-powered bombing quicker than ‘speed of thought’"](https://www.theguardian.com/technology/2026/mar/03/iran-war-heralds-era-of-ai-powered-bombing-quicker-than-speed-of-thought), _The Guardian_.
+
+[^119]: ["Palantir manifesto described as ‘ramblings of a supervillain’ amid UK contract fears"](https://www.theguardian.com/technology/2026/apr/21/palantir-manifesto-uk-contract-fears-mps), _The Guardian_.
+
+[^120]: A for-profit company took control of the Gitea project without the community's consent. This is what prompted the community to create Forgejo. <https://forgejo.org/2022-12-15-hello-forgejo/>.
+
+[^121]:["Blood money is fine with us, says GitLab: Vetting non-evil customers is 'time consuming, potentially distracting'"](https://www.theregister.com/software/2019/10/16/blood-money-is-fine-with-us-says-gitlab-vetting-non-evil-customers-is-time-consuming-potentially-distracting/1542242), _The Register_.
+
+[^122]: ["GitLab promises a different kind of layoff as biz pivots toward AI"](https://www.theregister.com/devops/2026/05/12/gitlab-promises-a-different-kind-of-layoff-as-biz-pivots-toward-ai/5238422), _The Register_.
